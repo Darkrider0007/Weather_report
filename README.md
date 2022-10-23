@@ -21,12 +21,12 @@ Weather Report is a place, where you can get information about any city across t
 
 Below are the steps to follow to contribute to this project:
 
-**1.** Fork [this](https://github.com/wasimreja/book-finder) repository.
+**1.** Fork [this](https://github.com/Darkrider0007/Weather_report) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/book-finder.git
+git clone https://github.com/<your_user_name>/Weather_report.git
 ```
 
 where `your_user_name` is your GitHub username.
@@ -34,13 +34,13 @@ where `your_user_name` is your GitHub username.
 **3.** Navigate to the project directory.
 
 ```
-cd book-finder
+cd Weather_report
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/wasimreja/book-finder.git
+git remote add upstream https://github.com/Darkrider0007/Weather_report.git
 ```
 
 **5.** Check the remotes for this repository.
@@ -55,39 +55,33 @@ git remote -v
 git pull upstream main
 ```
 
-**7.** Create a new branch.
+**7.** Make necessary changes and commit those changes
 
-```
-git checkout -b <your_branch_name>
-```
-
-**8.** Make necessary changes and commit those changes
-
-**9.** Track your changes.
+**8.** Track your changes.
 
 ```
 git add .
 ```
 
-**10.** Commit your changes .
+**9.** Commit your changes .
 
 ```
-git commit -m "bla bla bla"
+git commit -m "message"
 ```
 
-**11.** Push the committed changes in your feature branch to your remote repo.
+**10.** Push the committed changes.
 
 ```
-git push -u origin <your_branch_name>
+git push -u origin 
 ```
 
-**12.** To create a pull request, click on `Compare & pull request`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+**11.** To create a pull request.
 
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+**12.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
-**14.** Click on `Create pull request`.
+**13.** Click on `Create pull request`.
 
-**15.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
+**14.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
 
 
 
