@@ -90,5 +90,5 @@ git push -u origin
 Thanks to these wonderful people ✨
 
 <a href="https://github.com/Darkrider0007/Weather_report/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Darkrider0007/Weather_report" />
+  <img src="https://contrib.rocks/image?repo=Darkrider0007/Weather_report&&max=817" />
 </a>
